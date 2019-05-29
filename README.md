@@ -11,7 +11,7 @@ Genera un nombre aleatori del 1 al 1000, si rep el permís per escriure guarda e
 # Index
 1. [Requiriments](#requiriments)
 2. [Com executar](#com-executar)
-3. [Arxius de configuració](arxius-de-configuració)
+3. [Arxius de configuració](#arxius-de-configuraci%C3%B3)
 
 
 ## Requiriments
